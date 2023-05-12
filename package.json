@@ -1,0 +1,31 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "axios": "^0.25",
+        "bootstrap": "^5.2.3",
+        "eslint": "^8.40.0",
+        "eslint-config-standard": "^17.0.0",
+        "eslint-plugin-import": "^2.27.5",
+        "eslint-plugin-n": "^15.7.0",
+        "eslint-plugin-promise": "^6.1.1",
+        "eslint-plugin-vue": "^9.12.0",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "sass": "^1.56.1",
+        "vue": "^3.2.37",
+        "vue-loader": "^16.8.3"
+    },
+    "dependencies": {
+        "@ant-design/icons-vue": "^6.1.0",
+        "@inertiajs/vue3": "^1.0.6",
+        "ant-design-vue": "^3.2.20",
+        "laravel-vite-plugin": "^0.7.5"
+    }
+}

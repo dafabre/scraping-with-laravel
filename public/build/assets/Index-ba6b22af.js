@@ -1,0 +1,1 @@
+import{c as r,a as e,w as t,r as n,o as c,b as o}from"./app-9483d102.js";const p={__name:"Index",setup(s){return(m,u)=>{const a=n("a-menu-item"),_=n("a-menu");return c(),r("div",null,[e(_,null,{default:t(()=>[e(a,{key:"graph"},{default:t(()=>[o(" Graph ")]),_:1}),e(a,{key:"graph"},{default:t(()=>[o(" Products ")]),_:1})]),_:1})])}}};export{p as default};

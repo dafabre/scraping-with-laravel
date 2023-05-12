@@ -1,0 +1,46 @@
+{
+  "resources/js/Pages/Index.vue": {
+    "file": "assets/Index-ba6b22af.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Index.vue"
+  },
+  "resources/js/Pages/Products.css": {
+    "file": "assets/Products-3a30e906.css",
+    "src": "resources/js/Pages/Products.css"
+  },
+  "resources/js/Pages/Products.vue": {
+    "css": [
+      "assets/Products-3a30e906.css"
+    ],
+    "file": "assets/Products-d4541aab.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Products.vue"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-a1b6a559.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-a1b6a559.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Index.vue",
+      "resources/js/Pages/Products.vue"
+    ],
+    "file": "assets/app-9483d102.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-3ea8b221.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
